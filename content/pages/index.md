@@ -745,7 +745,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home - Streamtv-go
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Worldwide Entertainment
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
